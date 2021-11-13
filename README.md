@@ -25,4 +25,4 @@ Arduino IDE Software
 
 Jumper Wires (please see the fritzing schematics image)
 
-(Please this open source project is in an early stage of development! Follow this project if you have some electronics knowledge! Some features may need to be fixed but hope you enjoy! Kind regards!) 
+(Please note that this open source project is in an early stage of development! Follow this project if you have some electronics knowledge! Some features may need to be fixed but hope you enjoy! Kind regards!) 
