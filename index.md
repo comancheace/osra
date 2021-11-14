@@ -1,6 +1,6 @@
 # Welcome to OSRA!
 
-[Image](https://raw.githubusercontent.com/comancheace/osra/main/osra_banner.jpg)
+<img src="https://raw.githubusercontent.com/comancheace/osra/main/osra_banner.jpg" width="100%">
 
 ## OSRA Open Source Robotic Arm
 
@@ -26,8 +26,8 @@ For the electronic part you will need:
 
 - 1 x Arduino USB Cable
 
-- Jumper Wires (please see the fritzing schematics image)
+- Jumper Wires (please see image below with the fritzing schematics image)
 
-[Image](https://github.com/comancheace/osra/blob/main/fritzing_osra.jpg?raw=true)
+<img src="https://github.com/comancheace/osra/blob/main/fritzing_osra.jpg" width="100%">
 
 (Please note that this open source project is in an early stage of development! Follow this project if you have some electronics knowledge! Some features may need to be fixed but hope you enjoy! Kind regards!)
