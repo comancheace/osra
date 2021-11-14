@@ -1,6 +1,6 @@
 # Welcome to OSRA!
 
-<img src="https://raw.githubusercontent.com/comancheace/osra/main/osra_banner.jpg" width="100%">
+<img src="https://comancheace.github.io/osra/assets/osra_banner.jpg" width="100%">
 
 ## OSRA Open Source Robotic Arm
 
@@ -30,4 +30,4 @@ For the electronic part you will need:
 
 (Please note that this open source project is in an early stage of development! Follow this project if you have some electronics knowledge! Some features may need to be fixed but hope you enjoy! Kind regards!)
 
-<img src="https://raw.githubusercontent.com/comancheace/osra/main/fritzing_osra.jpg" width="100%">
+<img src="https://comancheace.github.io/osra/assets/fritzing_osra.jpg" width="100%">
