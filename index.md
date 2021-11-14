@@ -34,7 +34,7 @@ For the electronic part you will need:
 
 The code:
 
-```c++
+```
 //OSRA 2.3.1
 //Open Source Robotic Arm 2.3.1
 #include <LiquidCrystal.h>
