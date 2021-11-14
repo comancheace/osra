@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to OSRA!
 
-You can use the [editor on GitHub](https://github.com/comancheace/osra/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## OSRA Open Source Robotic Arm
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Arduino Open Source Project
 
-### Markdown
+Here is available the code and 3d printable parts for the project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For the electronic part you will need:
 
-```markdown
-Syntax highlighted code block
+- Arduino IDE Software
 
-# Header 1
-## Header 2
-### Header 3
+- 1 x Arduino Uno
 
-- Bulleted
-- List
+- 2 x KY-023 Dual-axis XY Joystick Module
 
-1. Numbered
-2. List
+- 1 x Display LCD 16x2
 
-**Bold** and _Italic_ and `Code` text
+- 1 x Arduino Breadboard
 
-[Link](url) and ![Image](src)
-```
+- 5 x Tower Pro SG90 Servo 9g
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- 1 x 10k Potentiometer
 
-### Jekyll Themes
+- 1 x Arduino USB Cable
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/comancheace/osra/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Jumper Wires (please see the fritzing schematics image)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(Please note that this open source project is in an early stage of development! Follow this project if you have some electronics knowledge! Some features may need to be fixed but hope you enjoy! Kind regards!)
