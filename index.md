@@ -28,6 +28,6 @@ For the electronic part you will need:
 
 - Jumper Wires (please see image below with the fritzing schematics image)
 
-<img src="https://github.com/comancheace/osra/blob/main/fritzing_osra.jpg" width="100%">
-
 (Please note that this open source project is in an early stage of development! Follow this project if you have some electronics knowledge! Some features may need to be fixed but hope you enjoy! Kind regards!)
+
+<img src="https://github.com/comancheace/osra/blob/main/fritzing_osra.jpg" width="100%">
