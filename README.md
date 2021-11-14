@@ -3,6 +3,8 @@ OSRA Open Source Robotic Arm
 
 Arduino Open Source Project
 
+<img src="https://comancheace.github.io/osra/assets/osra_banner.jpg" width="100%">
+
 Here is available the code and 3d printable parts for the project
 
 For the electronic part you will need:
@@ -25,4 +27,6 @@ Arduino IDE Software
 
 Jumper Wires (please see the fritzing schematics image)
 
-(Please note that this open source project is in an early stage of development! Follow this project if you have some electronics knowledge! Some features may need to be fixed but hope you enjoy! Kind regards!) 
+(Please note that this open source project is in an early stage of development! Follow this project if you have some electronics knowledge! Some features may need to be fixed but hope you enjoy! Kind regards!)
+
+<img src="https://comancheace.github.io/osra/assets/fritzing_osra.jpg" width="100%">
