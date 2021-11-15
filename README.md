@@ -7,7 +7,7 @@ Arduino Open Source Project
 
 Here is available the code and 3d printable parts for the project
 
-The osra.ino file contains the Arduino sketch with the code for this project.
+## The osra.ino file contains the Arduino sketch with the code for this project.
 
 For the electronic part you will need:
 
